@@ -1,0 +1,7 @@
+$ eval-delta examples/baseline.jsonl examples/candidate.jsonl --metric error:lower
+
+FAIL | 3 paired samples | 0 missing | 0 new
+"error" (lower): mean change -0.2333333333333334, 1 regressions, 2 improvements
+"latency_ms" (lower): mean change -5.0, 1 regressions, 2 improvements
+
+Exit code: 1

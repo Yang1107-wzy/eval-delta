@@ -1,0 +1,3 @@
+{"id": "sample-a", "error": 3.8, "latency_ms": 95}
+{"id": "sample-b", "error": 1.8, "latency_ms": 75}
+{"id": "sample-c", "error": 2.8, "latency_ms": 85}
